@@ -1,6 +1,5 @@
 # MYURSEL
 <div align="center">
-MYURSEL
 AI Student · Radboud University · Building at the Edge
 </div>
 
@@ -74,6 +73,6 @@ opportunities = {
 <details>
 <summary>🇹🇷 Kısaca Türkçe</summary>
 <br>
-Radboud Üniversitesi'nde 2. sınıf Yapay Zeka öğrencisiyim. Hollanda ve İrlanda'da bağımsız olarak yaşayıp çalıştıktan sonra, Eylül 2025'te lisans eğitimine başladım. Staj, working-student veya entry-level pozisyonlar için aktif olarak fırsat arıyorum — Hollanda, Almanya, İsviçre, İrlanda veya remote. AB çifte vatandaşlığım var, vize ihtiyacım yok.
+Radboud Üniversitesi'nde 2. sınıf Yapay Zeka öğrencisiyim. Hollanda ve İrlanda'da bağımsız olarak yaşayıp çalıştıktan sonra, Eylül 2025'te lisans eğitimine başladım. Staj, working student veya entry level pozisyonlar için aktif olarak fırsat arıyorum Hollanda, Almanya, İsviçre, İrlanda veya remote. AB çifte vatandaşlığım var, vize ihtiyacım yok.
 </details>
 
