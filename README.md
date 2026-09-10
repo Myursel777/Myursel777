@@ -13,7 +13,7 @@ Before university, I lived and worked independently in **Dublin** and **Den Haag
 
 I applied to Radboud's AI programme during that stretch. Got accepted. Started September 2025.
 
-I hold **dual EU citizenship** (TR/BG) and am actively looking for **internship / working-student / entry-level opportunities** in AI, ML, or related engineering roles  open to **Netherlands, Germany, Switzerland, Ireland**, and **remote**.
+I hold **dual EU citizenship** (TR/BG) and am actively looking for **internship / working-student / entry-level opportunities** in AI, ML, or related engineering roles  open to **Netherlands, Ireland**, and **remote**.
 
 ---
 
